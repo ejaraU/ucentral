@@ -7,18 +7,18 @@ document.addEventListener("DOMContentLoaded", async () => {
       web3.eth.defaultAccount = accounts[0];
       initApp();
     } catch (error) {
-      console.error("Access to your Ethereum account was denied.", error);
+      console.error("Se denego el acceso a la cuenta.", error);
     }
   } else if (window.web3) {
     window.web3 = new Web3(web3.currentProvider);
     initApp();
   } else {
-    console.error("Non-Ethereum browser detected. You should consider trying MetaMask!");
+    console.error("Instalar Metamask!");
   }
 });
 
 async function initApp() {
-  const contractAddress = "0xe4d1130ddDaFbFE66FB1FaD7B96507a2Df82187d"; // Replace with your contract address
+  const contractAddress = "0xa2CcaAd5e6a21961cAefE8696189A647B3Cb5bE4"; // Replace with your contract address
   const contractAbi =[
     {
       "inputs": [
