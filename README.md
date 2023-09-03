@@ -17,6 +17,10 @@ La estructura del registro :
 
 
 
+https://github.com/ejaraU/ucentral/assets/143906202/a1b9596d-9fb2-4d02-bedd-992c54032ce6
 
-https://github.com/ejaraU/ucentral/assets/143906202/ec591b66-dcd8-493d-817d-f0ee38f0630b
+
+
+
+
 
