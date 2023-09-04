@@ -15,10 +15,38 @@ La estructura del registro :
 - Registro de atenciones médicas
 - Registro de Diagnóstico y Tratamientos
 
+## Estructura de contrato
 
+
+
+## Arquitectura de Software
+
+
+
+## Pasos de instalación
+
+- Clonar el proyecto desde https://github.com/ejaraU/ucentral.git
+- Agregar la clave privada de tu wallet de Metamask en el archivo '.env'
+- Ejecutar:
+
+```javascript
+
+ npm i -y -f
+
+```
+
+- Ejecutar:
+
+```javascript 
+
+npx http-server
+```
+
+El proceso indicará la dirección y puerto de tu servidor local, para abrir el navegador que tenga instalado Metamask
+
+## Video demostrativo
 
 https://github.com/ejaraU/ucentral/assets/143906202/a1b9596d-9fb2-4d02-bedd-992c54032ce6
-
 
 
 
