@@ -18,10 +18,39 @@ Mediante un smart contract llamado Ficha, se registra el historial de atenciones
 
 ## Estructura de contrato
 
+```javascript
+
+struct Record {
+        string patientName;
+        string doctorName;
+        string date;
+        string diagnosis;
+        string problem;
+        string treatment;
+    }
+
+.............................
+
+function addRecord(
+        string memory _patientName,
+        string memory _doctorName,
+        string memory _date,
+        string memory _diagnosis,
+        string memory _problem,
+        string memory _treatment
+    )
+
+..............................
+
+function getRecords() external view returns (Record[] memory) {
+        return medicalRecords[msg.sender];
+```
+
 
 
 ## Arquitectura de Software
 
+![image](https://github.com/ejaraU/ucentral/assets/143906202/a93f3a35-bbce-4220-be93-f8784ae705a2)
 
 
 ## Pasos de instalación
