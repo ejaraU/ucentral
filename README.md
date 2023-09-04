@@ -46,7 +46,7 @@ function getRecords() external view returns (Record[] memory) {
         return medicalRecords[msg.sender];
 ```
 
-
+Para generar el contrato pueden revisar la siguiente url: https://github.com/ejaraU/contrato_medico
 
 ## Arquitectura de Software
 
