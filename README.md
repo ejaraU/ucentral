@@ -10,7 +10,8 @@ Proyecto curso Blockchain, creación Dapp.<br><br>
 <div align='justify'>
 Mediante un smart contract llamado Ficha, se registra el historial de atenciones, diagnóstico, medicamentos y patologías de las personas. Consistirá en un sistema de registros secuencial para cada usuario, el que activará el consumo de un de un contrato definido para el registro. Permitirá el acceso al historial de parte del profesional médico enrolado y al agregar información al registro del paciente.
 </div>
-La estructura del registro :
+
+> La estructura del registro :
 - Identificación de la persona
 - Registro de atenciones médicas
 - Registro de Diagnóstico y Tratamientos
