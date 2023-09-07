@@ -281,7 +281,7 @@ body {
   }
 
   .botonRetroceso {
-    background-image: url('http://192.168.1.131:8080/Fondo/botonRetroceso.jpg'); /* Ruta de tu imagen */
+    background-image: url('/imagenes/botonRetroceso.jpg'); /* Ruta de tu imagen */
     background-size: cover; /* Ajusta el tamaño de la imagen al botón */
     width: 30px; /* Ancho del botón */
     height: 40px; /* Altura del botón */
@@ -290,7 +290,7 @@ body {
   }
 
   .botonAvanza {
-    background-image: url('http://192.168.1.131:8080/Fondo/botonAvanza.jpg'); /* Ruta de tu imagen */
+    background-image: url('/imagenes/botonAvanza.jpg'); /* Ruta de tu imagen */
     background-size: cover; /* Ajusta el tamaño de la imagen al botón */
     width: 30px; /* Ancho del botón */
     height: 40px; /* Altura del botón */
