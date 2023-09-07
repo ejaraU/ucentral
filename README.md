@@ -50,29 +50,22 @@ Para generar el contrato pueden revisar la siguiente url: https://github.com/eja
 
 ## Arquitectura de Software
 
-![image](https://github.com/ejaraU/ucentral/assets/143906202/a93f3a35-bbce-4220-be93-f8784ae705a2)
+
 
 
 ## Pasos de instalación
 
 - Clonar el proyecto desde https://github.com/ejaraU/ucentral.git
 - Agregar la clave privada de tu wallet de Metamask en el archivo '.env'
-- Ejecutar:
 
-```javascript
+  Para ejecutar el proyecto usaremos live-server, el cual se activa en el costado izquierdo inferior de VSCODE como aparece en la imagen y presionamos sobre Go Live: <br>
+  
+![image](https://github.com/ejaraU/ucentral/assets/143906202/68858291-5c52-4e4a-81b0-9e468ce02d02)
 
- npm i -y -f
+Es importante que estes sobre el directorio y archivo que inicializa el proyecto, en nuestro caso index.html 
 
-```
+![image](https://github.com/ejaraU/ucentral/assets/143906202/c1927ab6-ef8e-4d40-b4ed-c010078b1a20)<br>
 
-- Ejecutar:
-
-```javascript 
-
-npx http-server
-```
-
-El proceso indicará la dirección y puerto de tu servidor local, para abrir el navegador que tenga instalado Metamask
 
 ## Video demostrativo
 
