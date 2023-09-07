@@ -50,6 +50,7 @@ Para generar el contrato pueden revisar la siguiente url: https://github.com/eja
 
 ## Arquitectura de Software
 
+![image](https://github.com/ejaraU/ucentral/assets/143906202/30cb9718-5492-48b5-82b7-81716e7d43b6)
 
 
 
