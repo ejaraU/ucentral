@@ -56,9 +56,11 @@ Para generar el contrato pueden revisar la siguiente url: https://github.com/eja
 ## Pasos de instalación
 
 - Clonar el proyecto desde https://github.com/ejaraU/ucentral.git
-- Agregar la url de Testnet usada en tu wallet de Metamask en el archivo '.env'
-
-  Para ejecutar el proyecto usaremos live-server, el cual se activa en el costado izquierdo inferior de VSCODE como aparece en la imagen y presionamos sobre Go Live: <br>
+- Aplicar el siguiente comnando: <br>
+```bash
+npm i -y -f  
+ ``` 
+- Para ejecutar el proyecto usaremos live-server, el cual se activa en el costado izquierdo inferior de VSCODE como aparece en la imagen y presionamos sobre Go Live: <br>
   
 ![image](https://github.com/ejaraU/ucentral/assets/143906202/68858291-5c52-4e4a-81b0-9e468ce02d02)
 
